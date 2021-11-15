@@ -1,3 +1,3 @@
 # CS231NLearning
-It's a repository to store PPTs and my assignment solutions about CS231N(2021 Spring).
+It's a repository to store PPTs and my assignment solutions about CS231N(2021 Spring).  
 斯坦福大学CS231N(2021春季)课程作业与PPT，持续更新中...
